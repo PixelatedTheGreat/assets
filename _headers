@@ -1,3 +1,4 @@
 /*
   Access-Control-Allow-Origin: *
-  X-Frame-Options: SAMEORIGIN
+  X-Frame-Options: ALLOWALL
+  Content-Security-Policy: frame-ancestors *
